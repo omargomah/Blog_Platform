@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{161ED92A-EB1F-4040-B565-5767C03274D6}|Blog_Platform\\Blog_Platform.csproj|c:\\users\\compu\\source\\repos\\blog_platform_solution\\blog_platform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{161ED92A-EB1F-4040-B565-5767C03274D6}|Blog_Platform\\Blog_Platform.csproj|solutionrelative:blog_platform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161ED92A-EB1F-4040-B565-5767C03274D6}|Blog_Platform\\Blog_Platform.csproj|c:\\users\\compu\\source\\repos\\blog_platform_solution\\blog_platform\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{161ED92A-EB1F-4040-B565-5767C03274D6}|Blog_Platform\\Blog_Platform.csproj|solutionrelative:blog_platform\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Migrations\\20250129155738_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog_Platform\\Migrations\\20250129155738_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{161ED92A-EB1F-4040-B565-5767C03274D6}|Blog_Platform\\Blog_Platform.csproj|c:\\users\\compu\\source\\repos\\blog_platform_solution\\blog_platform\\blog_platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{161ED92A-EB1F-4040-B565-5767C03274D6}|Blog_Platform\\Blog_Platform.csproj|solutionrelative:blog_platform\\blog_platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Blog_Platform\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Models\\AppUser.cs",
+              "RelativeToolTip": "Blog_Platform\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:08:12.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250129155738_Test.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Migrations\\20250129155738_Test.cs",
+              "RelativeDocumentMoniker": "Blog_Platform\\Migrations\\20250129155738_Test.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Migrations\\20250129155738_Test.cs",
+              "RelativeToolTip": "Blog_Platform\\Migrations\\20250129155738_Test.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:57:39.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog_Platform.csproj",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Blog_Platform.csproj",
+              "RelativeDocumentMoniker": "Blog_Platform\\Blog_Platform.csproj",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\Blog_Platform.csproj",
+              "RelativeToolTip": "Blog_Platform\\Blog_Platform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T09:02:11.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog_Platform\\appsettings.json",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\Blog_Platform_Solution\\Blog_Platform\\appsettings.json",
+              "RelativeToolTip": "Blog_Platform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T16:46:02.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
